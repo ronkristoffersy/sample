@@ -1,18 +1,18 @@
 echo "Hello, World"
 echo "woohoo"
-x = 'red' 
-we want to try to run this script. 
--
-__
-___
-____
-_____
-______
-_______
-______
-_____
-____
-___
-__
-_
-
+x=red 
+echo  "we want to try to run this script." 
+echo "-"
+echo "__"
+echo "___"
+echo "____"
+echo "_____"
+echo "______"
+echo "_______"
+echo "______"
+echo "_____"
+echo "____"
+echo "___"
+echo "__"
+echo "_"
+echo
